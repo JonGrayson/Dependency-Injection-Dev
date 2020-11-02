@@ -1,2 +1,2 @@
 Spatial Partition Development
-https://jongrayson.github.io/Dependency-Injection-Dev/
+https://jongrayson.github.io/Spatial-Partition-Dev/
